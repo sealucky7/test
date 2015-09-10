@@ -1,5 +1,5 @@
 <?php 
 
-echo "test.local";
+echo "test.local - It's my domen :)";
 
 ?>
